@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RehanMittal
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python,HTML and CSS
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Tech related projects
 - 📫 How to reach me ...
 
