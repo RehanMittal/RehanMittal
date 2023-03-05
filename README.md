@@ -40,3 +40,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=RehanMittal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# # snake eating my contribution graph
+
+![snake gif](https://github.com/RehanMittal/RehanMittal/blob/output/github-contribution-grid-snake.gif)
