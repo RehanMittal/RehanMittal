@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @RehanMittal
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Tech related projects
-- 📫 How to reach me ...
+<!--- -  Hi, I’m @RehanMittal
+-  I’m interested in Computer Science
+-  I’m currently learning C
+- I’m looking to collaborate on Tech related projects
+-  How to reach me ...
 
-<!---
+
 RehanMittal/RehanMittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
 # 💫 About Me:
-I'm currently working on DSA.<br>I'm looking for opportunities to work on software projects.<br>I'm looking for help with developing face detector using cv2 module.<br>Ask me about competitive programming.<br>Fun Fact - That 1Mbps and 1MBps internet connection don't mean the same thing.
+👋 I'm currently working on DSA.<br> 👀 I'm looking for opportunities to work on software projects.<br> 🌱 I'm looking for help with developing face detector using cv2 module.<br> 💞️ Ask me about competitive programming.<br> 📫 Fun Fact - That 1Mbps and 1MBps internet connection don't mean the same thing.
 
 
 ## 🌐 Socials:
