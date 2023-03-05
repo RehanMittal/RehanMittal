@@ -45,4 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![snake gif](https://github.com/RehanMittal/RehanMittal/blob/output/github-contribution-grid-snake.gif)
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<br>
+ <img src="https://raw.githubusercontent.com/RehanMittal/RehanMittal/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
+
