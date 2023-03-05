@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🏫 LPU, Jalandhar
 - 🔭 Building my skills, while also working on a few of projects.
 - 🌱 Learning Machine Learning, Web Development and DSA, while working on related projects.
-- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1XzQXGBsMBVk4NPJ6PiTF_-NEumnW2anU/view?usp=sharing)
+- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1n8NDqVDfwBvGZzvqFCKehoGBUvXl_zgI/view?usp=share_link)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rehanmittal/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
 
 
