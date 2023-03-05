@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-- 👋 I'm currently working on DSA.<br> 👀 I'm looking for opportunities to work on software projects.<br>- 🌱 I'm looking for help with developing face detector using cv2 module.<br>- 💞️ Ask me about competitive programming.<br>- 📫 Fun Fact - That 1Mbps and 1MBps internet connection don't mean the same thing.
+ - 👋 I'm currently working on DSA.<br> - 👀 I'm looking for opportunities to work on software projects.<br>- 🌱 I'm looking for help with developing face detector using cv2 module.<br>- 💞️ Ask me about competitive programming.<br>- 📫 Fun Fact - That 1Mbps and 1MBps internet connection don't mean the same thing.
 
 
 ## 🌐 Socials:
