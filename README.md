@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 
 <p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brihad24&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Brihad" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brihad24&layout=compact&theme=gotham" alt="Brihad" width="425"/></p>
 <!-- <p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RehanMittal&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanMittal&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
   </p> -->
 
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
@@ -86,13 +86,10 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <p align = "center" width = "100%">
-    <a href="https://www.linkedin.com/in/brihad-gunapu/">
+    <a href="https://www.linkedin.com/in/rehanmittal/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/brihad.13/">
-      <img src="https://img.shields.io/badge/Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://twitter.com/BrihadGV">
+    <a href="https://twitter.com/rehanmittal">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </p>
