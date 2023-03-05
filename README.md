@@ -43,6 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# # snake eating my contribution graph
+
 
 ![snake gif](https://github.com/RehanMittal/RehanMittal/blob/output/github-contribution-grid-snake.gif)
