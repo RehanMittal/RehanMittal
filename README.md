@@ -26,8 +26,7 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" alt="gif" width="300" style="border-radius:5px" src="
-https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g"> 
+<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g">  
 
 - :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML
 - 🏫 LPU, Jalandhar
