@@ -1,115 +1,109 @@
+
+
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-#### ***<div align="center">I'm Rehan, a Data Analyst, UI/UX designer and a Frontend Developer👨‍💻 working on upgrading my skills. 🚀</div>***  
-  
-
-- ##### 🔭 I’m currently working on my skills in Development, DSA and as a analyst  
-  
-
-- ##### 🌱 I’m currently learning Django, ReactJs, TailwindCSS.  
-  
-
-- ##### ⚡ Fun fact: 90% of the world's wealth resides in the silent hum of computers, turning bits and bytes into the heartbeat of global fortune.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" width="1200" height="200"/>
 </div>
 
-</td><td valign="top" width="33%">
 
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<p align = "center">
+  <h2 align = "center">
+      Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> 
+  </h2>
+  <h4>
+      I'm Rehan Mittal, a 1st year CS major studying at LPU Jalandhar, specializing in Artificial Intelligence & Machine Learning. I am currently looking for opportunity to work on software development projects. Scroll down to know more about me and to connect with me!
+  </h4>
+</p>
+
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<br>
+
+
+
+<!--
+**RehanMittal/RehanMittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
+<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g">  
+
+- :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML
+- 🏫 LPU, Jalandhar
+- 🔭 Building my skills, while also working on a few of projects.
+- 🌱 Learning Machine Learning, Web Development and DSA, while working on related projects.
+- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1n8NDqVDfwBvGZzvqFCKehoGBUvXl_zgI/view?usp=share_link)
+- 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rehanmittal/) <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanmittal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehanmittal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mittalrehan0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mittalrehan0" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mittalrehan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mittalrehan0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehanmittal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mittalrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittalrehan" height="30" width="40" /></a>
+</p> 
+
+
+<img align="left" alt="gif" width="520" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> &nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+:hammer_and_wrench: Languages and Tools :
+<br><br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
+<br>
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+
+:fire: My stats: <br><br>
+
+<p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brihad24&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Brihad" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanMittal&layout=compact&theme=gotham" alt="Brihad" width="425"/></p>
+<!-- <p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
+  </p> -->
+
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
 
-</td><td valign="top" width="33%">
 
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<div id="badges">
+  <p align = "center" width = "100%">
+    <a href="https://www.linkedin.com/in/rehanmittal/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/rehanmittal">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </p>
 </div>
 
-</td></tr></table>  
-
-<br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/RehanMittal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rehanmittal" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rehanmittal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/rehan.mittal.186/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mittalrehan_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanMittal&hide_border=true&layout=compact" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=RehanMittal&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<br>
+ <img src="https://raw.githubusercontent.com/brihad24/RehanMittal/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=RehanMittal&&style=flat-square)  
-  
-
-<br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
+
+
+
+
+
