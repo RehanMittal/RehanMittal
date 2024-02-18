@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g">  
 
 - :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in Data Science
-- 🏫 India
+- 🏫 Haryana, India
 - 🔭 Building my skills, while also working on a few of projects.
 - 🌱 Learning Data Science, Web Development and DSA, while working on related projects.
 - 📄Check out my resume! [![Rehan's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1Z5EeblmTwpKQPP6Vpm-yoYZ7U3Yfvxbz/view?usp=sharing)
@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanmittal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehanmittal" height="30" width="40" /></a>
+<a href="https://fb.com/rehan.mittal.186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehan.mittal.186" height="30" width="40" /></a>
+<a href="https://instagram.com/mittalrehan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mittalrehan_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mittalrehan0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mittalrehan0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mittalrehan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mittalrehan0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehanmittal" height="30" width="40" /></a>
