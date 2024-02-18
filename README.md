@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 -->
 :fire: My stats: <br><br>
 
-<div> &ensp; &ensp; <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brihad24&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rehan" height = "220" width=""/> &ensp; &ensp; <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanMittal&layout=compact&theme=gotham" alt="Rehan" height = "220" width=""/></div>
+<div> <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brihad24&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rehan" height = "220" width=""/> &ensp; &ensp; <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanMittal&layout=compact&theme=gotham" alt="Rehan" height = "220" width=""/></div>
 <!-- <p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <!--
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> -->
 
-<div id="header" align="center">
+<div id="header" align="center" style="margin-top:200">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
 
