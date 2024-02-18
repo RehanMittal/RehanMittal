@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/mittalrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittalrehan" height="30" width="40" /></a>
 </p> 
 
-
+<!--
 <img align="left" alt="gif" width="520" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> &nbsp;&nbsp;&nbsp;&nbsp;
+-->
 <br><br>
 :hammer_and_wrench: Languages and Tools :
 <br><br>
