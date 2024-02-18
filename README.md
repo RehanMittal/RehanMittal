@@ -56,17 +56,18 @@ Here are some ideas to get you started:
 
 </div>
 <br>
+<!--
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
-
+-->
 :fire: My stats: <br><br>
 
 <p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brihad24&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Brihad" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanMittal&layout=compact&theme=gotham" alt="Brihad" width="425"/></p>
 <!-- <p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
-  </p> -->
-
-<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+  </p> 
+<!--
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
@@ -86,9 +87,10 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+-->
 <br>
  <img src="https://raw.githubusercontent.com/brihad24/RehanMittal/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
 
