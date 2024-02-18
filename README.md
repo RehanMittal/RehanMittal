@@ -11,7 +11,7 @@
       Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> 
   </h2>
   <h4>
-      I'm Rehan Mittal, a 1st year CS major studying at LPU Jalandhar, specializing in Artificial Intelligence & Machine Learning. I am currently looking for opportunity to work on software development projects. Scroll down to know more about me and to connect with me!
+      Hi 👋! I'm Rehan Mittal, a Web Developer, UI/UX designer, and Data Analyst from India. Let's connect and explore exciting opportunities in software development projects!. Scroll down to know more about me and to connect with me!
   </h4>
 </p>
 
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 <img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g">  
 
-- :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML
-- 🏫 LPU, Jalandhar
+- :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in Data Science
+- 🏫 India
 - 🔭 Building my skills, while also working on a few of projects.
-- 🌱 Learning Machine Learning, Web Development and DSA, while working on related projects.
-- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1n8NDqVDfwBvGZzvqFCKehoGBUvXl_zgI/view?usp=share_link)
+- 🌱 Learning Data Science, Web Development and DSA, while working on related projects.
+- 📄Check out my resume! [![Rehan's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1Z5EeblmTwpKQPP6Vpm-yoYZ7U3Yfvxbz/view?usp=sharing)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rehanmittal/) <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanmittal" height="30" width="40" /></a>
