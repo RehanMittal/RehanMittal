@@ -90,10 +90,13 @@ Here are some ideas to get you started:
 <!--
 
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
--->
+
 <br>
  <img src="https://raw.githubusercontent.com/brihad24/RehanMittal/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
+-->
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 
 
